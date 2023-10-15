@@ -14,7 +14,7 @@ Investing in real estate properties is a known method for generating wealth and 
 ### Project Contributors
 Claire Bentzen - https://github.com/clairebentzen
 
-Jiaqi He - 
+Jiaqi He - https://github.com/Kayhe93
 
 Sultan Mahmud Rahat - https://github.com/smahmudrahat
 
